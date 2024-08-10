@@ -36,9 +36,9 @@ const ContactPageContainer = () => {
                 <div className='pt-1 flex-1'>
                   <h4 className='h4 mb-2'>Address</h4>
                   <p className='leading-relaxed'>
-                    123/45 Elm St, Suite 800
+                  Kirfield Cottages, 4 Clonsilla Rd, Coolmine D15
                     <br />
-                    Los Angeles, CA 90001
+                    Dublin, Ireland, D15H528
                   </p>
                 </div>
               </div>
@@ -49,22 +49,21 @@ const ContactPageContainer = () => {
                 <div className='pt-1 flex-1'>
                   <h4 className='h4 mb-2'>Phone Number</h4>
                   <div className='pt-1 flex-1'>
-                    <p>Phone: +90 (987) 654 32 10</p>
-                    <p>Fax: +90 (212) 654 32 10</p>
+                    <p>Phone: +35 (389) 208 45 07</p>
                   </div>
                 </div>
               </div>
               <div className='flex items-start gap-4'>
-                <div className='relative w-9 h-9'>
+                {/* <div className='relative w-9 h-9'>
                   <Image src={"/assets/contact/email.svg"} fill alt='' />
-                </div>
-                <div className='pt-1 flex-1'>
+                </div> */}
+                {/* <div className='pt-1 flex-1'>
                   <h4 className='h4 mb-2'>Email Address</h4>
                   <div className='flex flex-col gap-1'>
                     <p>info@domain.com.tr</p>
                     <p>support@domain.com.tr</p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </motion.div>

@@ -19,8 +19,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "SkinCare Beauty",
-  description: "SkinCare Beauty - Beauty and Skincare Products",
+  title: "Lash Studio",
+  description: "Lash Studio - Enhance your beauty",
 };
 
 export default function RootLayout({

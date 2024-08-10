@@ -27,8 +27,8 @@ const Header = () => {
               <div className='flex items-center gap-2 text-white'>
                 <FaPhoneAlt className='text-white' />
                 <span>
-                  <Link href='tel:+90 (987) 654 32 10' className='text-white'>
-                    +90 (987) 654 32 10
+                  <Link href='tel:+35 (389) 208 45 07' className='text-white'>
+                    +35 (389) 208 45 07
                   </Link>
                 </span>
               </div>
@@ -56,8 +56,8 @@ const Header = () => {
             <Image
               src='/assets/logo.svg'
               alt='logo'
-              width={120}
-              height={44}
+              width={170}
+              height={100}
               priority
             />
           </Link>

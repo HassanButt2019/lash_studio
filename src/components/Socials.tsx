@@ -9,16 +9,6 @@ const Socials = ({ containerStyles }: SocialsProps) => {
   return (
     <ul className={`${containerStyles}`}>
       <li>
-        <Link href='https://www.youtube.com/' target='_blank'>
-          <FaYoutube />
-        </Link>
-      </li>
-      <li>
-        <Link href='https://www.facebook.com/' target='_blank'>
-          <FaFacebook />
-        </Link>
-      </li>
-      <li>
         <Link href='https://www.instagram.com/' target='_blank'>
           <FaInstagram />
         </Link>
